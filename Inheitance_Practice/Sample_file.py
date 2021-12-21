@@ -5,5 +5,5 @@ class Sedan(Vehicle):
         super().__init__(cost, mileage)
         self.sedan_name = sedan_name
 
-verna=Sedan(15000000,18,"Verna")
+verna=Sedan(15000000,18,"Dezire")
 verna.show_vehicle_details()
