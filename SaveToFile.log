@@ -1,0 +1,24 @@
+2021-12-22 16:06:38,319 - INFO - SaveToFile - End of saveToFile program.
+2021-12-22 16:06:38,319 - DEBUG - SaveToFile - #########################
+2021-12-22 16:06:47,345 - DEBUG - SaveToFile - Checking name Ravi...
+2021-12-22 16:06:47,347 - ERROR - SaveToFile - Check successfully
+2021-12-22 16:06:47,348 - DEBUG - SaveToFile - Saving details of Ravi...
+2021-12-22 16:06:47,348 - INFO - SaveToFile - Details saved successfully!
+2021-12-22 16:06:51,303 - INFO - SaveToFile - End of saveToFile program.
+2021-12-22 16:06:51,304 - DEBUG - SaveToFile - #########################
+2021-12-22 16:07:00,047 - DEBUG - SaveToFile - Checking name Ravi...
+2021-12-22 16:07:00,048 - ERROR - SaveToFile - Check successfully
+2021-12-22 16:07:00,049 - DEBUG - SaveToFile - Saving details of Ravi...
+2021-12-22 16:07:00,049 - INFO - SaveToFile - Details saved successfully!
+2021-12-22 16:09:18,200 - INFO - SaveToFile - End of saveToFile program.
+2021-12-22 16:09:18,200 - DEBUG - SaveToFile - #########################
+2021-12-22 16:09:29,113 - DEBUG - SaveToFile - Checking name Ravi...
+2021-12-22 16:09:29,114 - ERROR - SaveToFile - name: Ravi already exist
+2021-12-22 16:11:00,276 - INFO - SaveToFile - End of saveToFile program.
+2021-12-22 16:11:00,276 - DEBUG - SaveToFile - #########################
+2021-12-22 16:11:05,808 - INFO - SaveToFile - End of saveToFile program.
+2021-12-22 16:11:05,809 - DEBUG - SaveToFile - #########################
+2021-12-22 16:11:33,770 - DEBUG - SaveToFile - Checking name Ravi...
+2021-12-22 16:12:38,717 - ERROR - SaveToFile - name: Ravi already exist
+2021-12-22 16:12:47,498 - INFO - SaveToFile - End of saveToFile program.
+2021-12-22 16:12:47,498 - DEBUG - SaveToFile - #########################

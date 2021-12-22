@@ -1,0 +1,10 @@
+2021-12-22 16:06:47,349 - DEBUG - __main__ - End of Employee Program
+2021-12-22 16:06:47,349 - DEBUG - __main__ - #######################
+2021-12-22 16:07:00,050 - DEBUG - __main__ - End of Employee Program
+2021-12-22 16:07:00,050 - DEBUG - __main__ - #######################
+2021-12-22 16:09:29,115 - CRITICAL - __main__ - Employee check failed
+2021-12-22 16:09:29,115 - DEBUG - __main__ - End of Employee Program
+2021-12-22 16:09:29,115 - DEBUG - __main__ - #######################
+2021-12-22 16:12:41,761 - CRITICAL - __main__ - Employee check failed
+2021-12-22 16:12:41,761 - DEBUG - __main__ - End of Employee Program
+2021-12-22 16:12:41,762 - DEBUG - __main__ - #######################
